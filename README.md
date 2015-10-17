@@ -9,7 +9,8 @@ You do not need to create a facebook app & can disable the facebook script inser
 
 ##### Planned features
 
-v1.1: More positions option & customization by position rather than global
+v1.1: Insert open graph's tags in metas (w/ option to disable)
+v1.2: More positions option & customization by position rather than global
 
 ## Install
 
