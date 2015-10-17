@@ -44,7 +44,7 @@ class ReLikedPlugin extends Gdn_Plugin {
 
     public function Base_AfterBody_Handler($Sender) {
         if(C('Plugins.ReLiked.InitScript') == FALSE){
-            echo '<script src="//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3"></script>';
+            echo '<script src="//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.5"></script>';
         }
     }
 
