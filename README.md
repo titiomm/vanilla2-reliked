@@ -9,6 +9,6 @@ You do not need to create a facebook app & can disable the facebook script inser
 
 To install just create a ReLiked folder in your plugin directory and put all files there.
 
-## TODO
+## Planned features
 
-v1.1: More position & customization by position
+v1.1: More positions option & customization by position rather than global
