@@ -264,3 +264,4 @@ To initialize TinyMCE for new loaded textareas you should just call `initTinyMCE
         });
     });
 ```
+# vanilla2-reliked 
