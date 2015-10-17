@@ -23,7 +23,7 @@ class ReLikedPlugin extends Gdn_Plugin {
 
     function __construct(){
         //On init construct button's code
-        $this->Code = '<div class="RL_fb_like"><div class="fb-like" data-href="%s" data-layout="'.C('Plugins.ReLiked.Layout').'" data-action="like" data-share="'.C('Plugins.ReLiked.Share').'" data-show-faces="'.C('Plugins.ReLiked.ShowFaces').'"></div></div>';
+        $this->Code = '<div class="RLFacebookLike"><div class="fb-like" data-href="%s" data-layout="'.C('Plugins.ReLiked.Layout').'" data-action="like" data-share="'.C('Plugins.ReLiked.Share').'" data-show-faces="'.C('Plugins.ReLiked.ShowFaces').'"></div></div>';
     }
 
     //Before Discussion Hook
